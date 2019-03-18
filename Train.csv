@@ -1,4 +1,4 @@
-image,xmin,ymin,xmax,ymax,class
+filename,xmin,ymin,xmax,ymax,class_name
 d4318cd2-679c-11e5-aa4a-40f2e96c8ad8.jpg,1550,125,2871,896,garbage
 b5175740-6798-11e5-8dd0-40f2e96c8ad8.jpg,1438,418,2305,1938,garbage
 e0c11ed8-679f-11e5-89b3-40f2e96c8ad8.jpg,1367,1000,2368,1367,garbage
