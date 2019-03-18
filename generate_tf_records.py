@@ -39,11 +39,9 @@ def class_text_to_int(row_label):
 
 '''
 def class_text_to_int(row_label):
-    if row_label == 'car':
+    if row_label == 'garbage':
         return 1
-    elif row_label == 'swimming pool':
-        return 2
-
+    
 def split(df, group):
     data = namedtuple('data', ['filename', 'object'])
     gb = df.groupby(group)
