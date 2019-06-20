@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2c33b546-679c-11e5-a533-40f2e96c8ad8.jpg</filename>
+	<path>C:\Users\Akashdeep\Desktop\paper\images\garbage-dataset\images\2c33b546-679c-11e5-a533-40f2e96c8ad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>269</width>
+		<height>188</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>26</ymin>
+			<xmax>265</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>
